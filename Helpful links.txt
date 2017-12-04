@@ -1,0 +1,3 @@
+This are a series of links of useful information regarding algorithms and
+competitive programming, as it expands, it is planned to be used as a wiki
+for sorted info.
